@@ -1,0 +1,15 @@
+PODS:
+  - Starscream (2.0.1)
+  - SwiftPhoenixClient (0.6.0):
+    - Starscream (~> 2.0.0)
+
+DEPENDENCIES:
+  - SwiftPhoenixClient
+
+SPEC CHECKSUMS:
+  Starscream: ce7a202d95615bd4113bc5a0f1932f1db8c808a4
+  SwiftPhoenixClient: b50748ec36d28719eaf69c1e13ae612df6b185a0
+
+PODFILE CHECKSUM: e13316c3f1e496abe5c01d17f186a818dede3a48
+
+COCOAPODS: 1.1.1
